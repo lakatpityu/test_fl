@@ -9,6 +9,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       // Application name
       title: 'Flutter Hello World',
+      //
       // Application theme data, you can set the colors for the application as
       // you want
       theme: ThemeData(
