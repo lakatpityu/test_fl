@@ -1,7 +1,9 @@
 import 'package:flutter/material.dart';
 
+//45646
 void main() => runApp(MyApp());
 
+// g7fd74g57dfgd
 class MyApp extends StatelessWidget {
   // This widget is the root of your application.
   @override
@@ -9,6 +11,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       // Application name
       title: 'Flutter Hello World',
+      //
       // Application theme data, you can set the colors for the application as
       // you want
       theme: ThemeData(
